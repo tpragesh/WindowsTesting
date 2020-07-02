@@ -1,1 +1,1 @@
-net user administrator Pasword@123
+net user administrator Paword@123
